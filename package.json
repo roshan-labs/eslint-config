@@ -1,0 +1,33 @@
+{
+  "name": "@roshan-labs/eslint-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Xiang Gao",
+  "license": "MIT",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "files": [
+    "index.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "dependencies": {
+    "@nuxtjs/eslint-config-typescript": "^10.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  },
+  "peerDependencies": {
+    "eslint": "^8.19.0",
+    "prettier": "^2.7.1"
+  }
+}
