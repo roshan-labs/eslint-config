@@ -5,7 +5,7 @@
   "author": "Xiang Gao",
   "license": "MIT",
   "scripts": {
-    "release": "standard-version"
+    "release": "release-it"
   },
   "files": [
     "index.js"
@@ -20,16 +20,19 @@
     }
   },
   "dependencies": {
-    "@nuxtjs/eslint-config-typescript": "^10.0.0",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-prettier": "^4.2.1"
+    "@nuxtjs/eslint-config-typescript": "^12.0.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.2"
   },
   "devDependencies": {
-    "standard-version": "^9.5.0"
+    "@release-it/conventional-changelog": "^5.1.1",
+    "cz-conventional-changelog": "^3.3.0",
+    "eslint": "^8.31.0",
+    "release-it": "^15.6.0",
+    "typescript": "^4.9.4"
   },
   "peerDependencies": {
-    "eslint": "^8.19.0",
-    "prettier": "^2.7.1",
-    "typescript": "^4.7.4"
+    "eslint": "^8.19.0"
   }
 }
