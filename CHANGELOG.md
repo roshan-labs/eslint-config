@@ -1,3 +1,12 @@
+
+
+## [1.2.0](https://github.com/roshan-labs/eslint-config/compare/v1.1.0...v1.2.0) (2023-01-12)
+
+
+### Features
+
+* 升级规则依赖 ([241b273](https://github.com/roshan-labs/eslint-config/commit/241b2735d1352acea5c60249e8e6c690d3900c0f))
+
 # Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
