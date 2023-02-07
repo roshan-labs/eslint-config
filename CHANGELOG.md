@@ -1,5 +1,12 @@
 
 
+### [1.2.1](https://github.com/roshan-labs/eslint-config/compare/v1.2.0...v1.2.1) (2023-02-07)
+
+
+### Bug Fixes
+
+* 添加 typescript 到生产依赖避免 eslint 无效 ([85c4226](https://github.com/roshan-labs/eslint-config/commit/85c4226b5f68c91b495ff29e3603c47f6991ab81))
+
 ## [1.2.0](https://github.com/roshan-labs/eslint-config/compare/v1.1.0...v1.2.0) (2023-01-12)
 
 
