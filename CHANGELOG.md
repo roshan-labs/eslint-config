@@ -1,5 +1,12 @@
 
 
+## [1.4.0](https://github.com/roshan-labs/eslint-config/compare/v1.3.0...v1.4.0) (2023-03-26)
+
+
+### Features
+
+* 添加 typescript 依赖 ([f2dd893](https://github.com/roshan-labs/eslint-config/commit/f2dd8932c2e18aa28578714f03fe343725ba7932))
+
 ## [1.3.0](https://github.com/roshan-labs/eslint-config/compare/v1.2.1...v1.3.0) (2023-03-26)
 
 
