@@ -1,5 +1,12 @@
 
 
+## [1.3.0](https://github.com/roshan-labs/eslint-config/compare/v1.2.1...v1.3.0) (2023-03-26)
+
+
+### Features
+
+* 移除 typescript 生产依赖 ([aa6ddb8](https://github.com/roshan-labs/eslint-config/commit/aa6ddb8fb08c5f4b88ee1baebed1b2f351e8edd2))
+
 ### [1.2.1](https://github.com/roshan-labs/eslint-config/compare/v1.2.0...v1.2.1) (2023-02-07)
 
 
