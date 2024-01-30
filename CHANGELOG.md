@@ -1,5 +1,17 @@
 
 
+## v1.4.1
+
+[compare changes](https://github.com/roshan-labs/eslint-config/compare/v1.4.0...v1.4.1)
+
+### 🏡 Chore
+
+- Update deps ([4e697ce](https://github.com/roshan-labs/eslint-config/commit/4e697ce))
+
+### ❤️ Contributors
+
+- XiangGao <392041299@qq.com>
+
 ## [1.4.0](https://github.com/roshan-labs/eslint-config/compare/v1.3.0...v1.4.0) (2023-03-26)
 
 
