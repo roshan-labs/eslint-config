@@ -1,5 +1,17 @@
 
 
+## v1.5.0
+
+[compare changes](https://github.com/roshan-labs/eslint-config/compare/v1.4.1...v1.5.0)
+
+### 🚀 Enhancements
+
+- 升级 nuxt eslint 规则模块 ([64b3773](https://github.com/roshan-labs/eslint-config/commit/64b3773))
+
+### ❤️ Contributors
+
+- XiangGao <392041299@qq.com>
+
 ## v1.4.1
 
 [compare changes](https://github.com/roshan-labs/eslint-config/compare/v1.4.0...v1.4.1)
