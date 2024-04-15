@@ -1,5 +1,17 @@
 
 
+## v1.5.1
+
+[compare changes](https://github.com/roshan-labs/eslint-config/compare/v1.5.0...v1.5.1)
+
+### 🩹 Fixes
+
+- 模块改为直接导出 eslint 可使用的配置数组 ([7ccb29a](https://github.com/roshan-labs/eslint-config/commit/7ccb29a))
+
+### ❤️ Contributors
+
+- XiangGao <392041299@qq.com>
+
 ## v1.5.0
 
 [compare changes](https://github.com/roshan-labs/eslint-config/compare/v1.4.1...v1.5.0)
