@@ -1,7 +1,7 @@
 import { createConfigForNuxt } from '@nuxt/eslint-config/flat'
 import eslintPluginPrettierRecommended from 'eslint-plugin-prettier/recommended'
 
-export default createConfigForNuxt()
+export default await createConfigForNuxt()
   .append(eslintPluginPrettierRecommended)
   .override('nuxt/vue/rules', {
     rules: {
@@ -10,3 +10,4 @@ export default createConfigForNuxt()
       'vue/no-v-model-argument': 0,
     },
   })
+  .toConfigs()
